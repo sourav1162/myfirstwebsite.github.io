@@ -251,7 +251,7 @@ li{ text-decoration: none; list-style: none; }
 	border: 1px solid #50d1c0;
 	border-radius: 100px;
 	margin: 0px 5px;
-	padding: 10px 25px;
+	padding: calc(1px + 0.5vw) calc(1px + 0.5vw);
 	text-align: center;
 	color: #50d1c0;
 }

@@ -32,7 +32,7 @@
 			<div class="center-div">
 				<h1>We are the <span id="type-wr"></span></h1>
 				<p>Your satisfaction is our pleasure</p>
-				<div class="header-buttons">
+				<div class="header-buttons ">
 					<a href="">About us</a>
 					<a href="">Contact us</a>
 				</div>
@@ -197,7 +197,7 @@
 
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-4 col-md-4 col-12">
+				<div class="col-lg-4 col-md-4 col-4">
 					<div class="card text-center">
 						<div class="card-header">BASIC</div>
 						<div class="card-body">
@@ -212,7 +212,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-12 card-second">
+				<div class="col-lg-4 col-md-4 col-4">
 					<div class="card text-center">
 						<div class="card-header">RECOMENDED</div>
 						<div class="card-body">
@@ -227,7 +227,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-12">
+				<div class="col-lg-4 col-md-4 col-4">
 					<div class="card text-center">
 						<div class="card-header">STANDARD</div>
 						<div class="card-body">
@@ -252,11 +252,122 @@
 
 <!-- ***************************happy customer part start**************************** -->
 
+	<section class="clients">
+		<div class="container p-heading text-center">
+			<h1 class="text-center font-weight-bold text-uppercase">our happy clients</h1>
+			<p class="text-capitalize">our happy customer says</p>
+			<hr class="w-50 mx-auto">
+		</div>
 
+		<div id="demo" class="carousel slide" data-ride="carousel">
+
+			<!-- Indicators -->
+			<ul class="carousel-indicators">
+				<li data-target="#demo" data-slide-to="0" class="active"></li>
+				<li data-target="#demo" data-slide-to="1"></li>
+				<li data-target="#demo" data-slide-to="2"></li>
+			</ul>
+
+			<!-- The slideshow -->
+			<div class="carousel-inner container">
+				<div class="carousel-item active">
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item">
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item">
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Left and right controls -->
+			<a class="carousel-control-prev" href="#demo" data-slide="prev">
+				<span class="carousel-control-prev-icon"></span>
+			</a>
+			<a class="carousel-control-next" href="#demo" data-slide="next">
+				<span class="carousel-control-next-icon"></span>
+			</a>
+
+		</div>
+	</section>
 
 <!-- ****************************happy customer part end***************************** -->
-
-
 
 
 

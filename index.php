@@ -18,11 +18,11 @@
 		  		</button>
 			  	<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			    	<ul class="navbar-nav ml-auto font-weight-bold">
-			      		<li class="nav-item"><a href="#" class="nav-link text-white">Home</a></li>
-			      		<li class="nav-item"><a href="#" class="nav-link text-white">Features</a></li>
-			      		<li class="nav-item"><a href="#" class="nav-link text-white">Services</a></li>
-			      		<li class="nav-item"><a href="#" class="nav-link text-white">Pricing</a></li>
-			      		<li class="nav-item"><a href="#" class="nav-link text-white">Contact us</a></li>
+			      		<li class="nav-item"><a href="#topheader" class="nav-link text-white">Home</a></li>
+			      		<li class="nav-item"><a href="#featuresdiv" class="nav-link text-white">Features</a></li>
+			      		<li class="nav-item"><a href="#servicesdiv" class="nav-link text-white">Services</a></li>
+			      		<li class="nav-item"><a href="#pricingdiv" class="nav-link text-white">Pricing</a></li>
+			      		<li class="nav-item"><a href="#contactusid" class="nav-link text-white">Contact us</a></li>
 			    	</ul>
 			  	</div>
 			</div>
@@ -45,7 +45,7 @@
 
 <!-- ***************************Features part start******************************* -->
 	
-	<div class="features">
+	<div class="features" id="featuresdiv">
 		<div class="container">
 			<div class="row">
 				<div class="feat-col col-lg-4 col-md-4 col-12">
@@ -445,8 +445,8 @@
 				</div>
 
 				<div class="col-lg-4 col-md-12 col-12 footer-1">
-					<h3 class="text-uppercase text-white text-lg-center text-md-left text-left py-lg-0 py-md-4 py-4">Navigation</h3>
-					<div class="text-lg-center text-md-left text-left text-white nav-foot py-md-2">
+					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Navigation</h3>
+					<div class="text-lg-center text-md-center text-left text-white nav-foot">
 						<li>HOME</li>
 						<li>FEATURES</li>
 						<li>SERVICES</li>
@@ -454,9 +454,9 @@
 					</div>
 				</div>
 
-				<div class="col-lg-4 col-md-12 col-12 footer-1">
-					<h3 class="text-uppercase text-white text-lg-center text-md-left text-left py-lg-0 py-md-4 py-4">Follow us :</h3>
-					<div class="follow-foot text-lg-center text-md-left text-left py-lg-3 py-md-2">
+				<div class="col-lg-4 col-md12 col-12 footer-1">
+					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Follow us :</h3>
+					<div class="follow-foot text-lg-center text-md-center text-left py-lg-3">
 						<i class="fa-2x fa fa-facebook-official" aria-hidden="true"></i>
 						<i class="fa-2x fa fa-instagram" aria-hidden="true"></i>
 						<i class="fa-2x fa fa-linkedin" aria-hidden="true"></i>
@@ -464,6 +464,10 @@
 						<i class="fa-2x fa fa-google-plus" aria-hidden="true"></i>		
 					</div>
 				</div>
+			</div>
+
+			<div class="scrolltop float-right">
+				<i class="fa-2x fa fa-angle-up" onclick="funcTop()" id="scr_btn"></i>
 			</div>
 		</div>
 	</footer>
@@ -491,6 +495,25 @@
   			deleteSpeed:200,
   			cursor:'_'
 		});
+	</script>
+
+	<script>
+		mybtn = document.getElementById("scr_btn");
+
+		window.onscroll = function() {scrollFunc()};
+
+		function scrollFunc(){
+			if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+				mybtn.style.display="block";
+			}else{
+				mybtn.style.display="none";
+			}
+		}
+
+		function funcTop(){
+			document.body.scrollTop=0;
+			document.documentElement.scrollTop=0;
+		}
 	</script>
 
 <!-- *****************************jquery part end************************************ -->

@@ -10,14 +10,14 @@
 
 	<div class="header" id="topheader">
 
-		<nav class="navbar navbar-expand-lg">
+		<nav class="navbar navbar-expand-lg navbar-dark">
 			<div class="container text-uppercase p-2">
 		  		<a class="navbar-brand font-weight-bold text-white" href="#">StudyMate</a>
 		  		<button class="navbar-toggler bg-d" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 		    		<span class="navbar-toggler-icon"></span>
 		  		</button>
 			  	<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-			    	<ul class="navbar-nav ml-auto font-weight-bold">
+			    	<ul class="navbar-nav ml-lg-auto text-center font-weight-bold">
 			      		<li class="nav-item"><a href="#topheader" class="nav-link text-white">Home</a></li>
 			      		<li class="nav-item"><a href="#featuresdiv" class="nav-link text-white">Features</a></li>
 			      		<li class="nav-item"><a href="#servicesdiv" class="nav-link text-white">Services</a></li>
@@ -445,8 +445,8 @@
 				</div>
 
 				<div class="col-lg-4 col-md-12 col-12 footer-1">
-					<h3 class="text-uppercase text-white text-lg-center text-md-left text-left py-lg-0 pt-md-3 pb-md-1 py-4">Navigation</h3>
-					<div class="text-lg-center text-md-left text-left text-white nav-foot">
+					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Navigation</h3>
+					<div class="text-lg-center text-md-center text-left text-white nav-foot">
 						<li>HOME</li>
 						<li>FEATURES</li>
 						<li>SERVICES</li>
@@ -455,8 +455,8 @@
 				</div>
 
 				<div class="col-lg-4 col-md12 col-12 footer-1">
-					<h3 class="text-uppercase text-white text-lg-center text-md-left text-left py-lg-0 py-md-3 py-4">Follow us :</h3>
-					<div class="follow-foot text-lg-center text-md-left text-left py-lg-3">
+					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Follow us :</h3>
+					<div class="follow-foot text-lg-center text-md-center text-left py-lg-3">
 						<i class="fa-2x fa fa-facebook-official" aria-hidden="true"></i>
 						<i class="fa-2x fa fa-instagram" aria-hidden="true"></i>
 						<i class="fa-2x fa fa-linkedin" aria-hidden="true"></i>

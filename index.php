@@ -381,7 +381,7 @@
 
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-8 col-md-8 col-10 offset-lg-2 offset-md-2 offset-1">
+				<div class="col-lg-8 col-md-10 col-10 offset-lg-2 offset-md-1 offset-1">
 					<form>
   						<div class="form-group">
 						    <input type="name" name="clients_name" class="form-control" placeholder="Enter name" id="name" autocomplete="off" required="required">
@@ -417,7 +417,7 @@
 
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-8 col-md-8 col-10 offset-lg-2 offset-md-2 offset-1">
+				<div class="col-lg-8 col-md-10 col-10 offset-lg-2 offset-md-1 offset-1">
 						<form>
       						<div class="input-group news-input-container">
      							<input type="email" class="form-control news-input" placeholder="Enter your Email" id="mail" name="news-mail" required="required">

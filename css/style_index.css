@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Muli:wght@300&display=swap');
 
+html{
+	scroll-behavior: smooth;
+}
+
 *{
 	margin: 0;
 	padding: 0;
@@ -434,6 +438,22 @@ form:hover .form-button button{
 }
 .follow-foot i:hover{
 	color: #60d8ef;
+}
+#scr_btn{
+	display: none;
+	position: fixed;
+	bottom: 20px;
+	right: 40px;
+	z-index: 99;
+	border: none;
+	color: #fff;
+	background: #00abff;
+	padding: 1px 5px;
+	border-radius: 10px;
+	transition: 0.5s;
+}
+#scr_btn:hover{
+	background: #606060;
 }
 
 /*******************************News letter part css************************************/

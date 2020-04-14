@@ -445,18 +445,18 @@
 				</div>
 
 				<div class="col-lg-4 col-md-12 col-12 footer-1">
-					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Navigation</h3>
-					<div class="text-lg-center text-md-center text-left text-white nav-foot">
-						<li>HOME</li>
-						<li>FEATURES</li>
-						<li>SERVICES</li>
-						<li>PRICING</li>
+					<h3 class="text-uppercase text-white text-lg-center text-md-left text-left py-lg-0 pt-md-3 pb-md-2 py-4">Navigation</h3>
+					<div class="text-lg-center text-md-left text-left text-white nav-foot">
+						<li><a href="#topheader">HOME</a></li>
+						<li><a href="#featuresdiv">FEATURES</a></li>
+						<li><a href="#servicesdiv">SERVICES</a></li>
+						<li><a href="#pricingdiv">PRICING</a></li>
 					</div>
 				</div>
 
 				<div class="col-lg-4 col-md12 col-12 footer-1">
-					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Follow us :</h3>
-					<div class="follow-foot text-lg-center text-md-center text-left py-lg-3">
+					<h3 class="text-uppercase text-white text-lg-center text-md-left text-left py-lg-0 pt-md-4 pb-md-2 py-4">Follow us :</h3>
+					<div class="follow-foot text-lg-center text-md-left text-left py-lg-3">
 						<i class="fa-2x fa fa-facebook-official" aria-hidden="true"></i>
 						<i class="fa-2x fa fa-instagram" aria-hidden="true"></i>
 						<i class="fa-2x fa fa-linkedin" aria-hidden="true"></i>

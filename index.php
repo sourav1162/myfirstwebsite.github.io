@@ -438,13 +438,13 @@
 	<footer class="footersection bg-dark py-4" id="footerdiv">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-4 col-md-4 col-12 footer-1">
+				<div class="col-lg-4 col-md-12 col-12 footer-1">
 					<h3 class="text-uppercase text-white">About Astro Developer community</h3>
 					<hr class="divi-foot">
 					<p class="text-left text-white pt-1">On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks.</p>
 				</div>
 
-				<div class="col-lg-4 col-md-4 col-12 footer-1">
+				<div class="col-lg-4 col-md-12 col-12 footer-1">
 					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Navigation</h3>
 					<div class="text-lg-center text-md-center text-left text-white nav-foot">
 						<li>HOME</li>
@@ -454,7 +454,7 @@
 					</div>
 				</div>
 
-				<div class="col-lg-4 col-md-4 col-12 footer-1">
+				<div class="col-lg-4 col-md-12 col-12 footer-1">
 					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Follow us :</h3>
 					<div class="follow-foot text-lg-center text-md-center text-left py-lg-3">
 						<i class="fa-2x fa fa-facebook-official" aria-hidden="true"></i>

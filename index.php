@@ -446,7 +446,7 @@
 
 				<div class="col-lg-4 col-md-12 col-12 footer-1">
 					<h3 class="text-uppercase text-white text-lg-center text-md-left text-left py-lg-0 py-md-4 py-4">Navigation</h3>
-					<div class="text-lg-center text-md-left text-left text-white nav-foot py-md-4">
+					<div class="text-lg-center text-md-left text-left text-white nav-foot py-md-2">
 						<li>HOME</li>
 						<li>FEATURES</li>
 						<li>SERVICES</li>

@@ -273,7 +273,7 @@
 				<div class="carousel-item active">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
-							<div class="box">
+							<div class="box mb-sm-5">
 								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
 								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
 								<h1>Sourav Saha</h1>
@@ -281,7 +281,7 @@
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
-							<div class="box">
+							<div class="box mb-sm-5">
 								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
 								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
 								<h1>Sourav Saha</h1>
@@ -289,35 +289,7 @@
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
-							<div class="box">
-								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
-								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
-								<h1>Sourav Saha</h1>
-								<h2>Web Developer</h2>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item">
-					<div class="row">
-						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
-							<div class="box">
-								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
-								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
-								<h1>Sourav Saha</h1>
-								<h2>Web Developer</h2>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
-							<div class="box">
-								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
-								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
-								<h1>Sourav Saha</h1>
-								<h2>Web Developer</h2>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
-							<div class="box">
+							<div class="box mb-sm-5">
 								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
 								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
 								<h1>Sourav Saha</h1>
@@ -329,7 +301,7 @@
 				<div class="carousel-item">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
-							<div class="box">
+							<div class="box mb-sm-5">
 								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
 								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
 								<h1>Sourav Saha</h1>
@@ -337,7 +309,7 @@
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
-							<div class="box">
+							<div class="box mb-sm-5">
 								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
 								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
 								<h1>Sourav Saha</h1>
@@ -345,7 +317,35 @@
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
-							<div class="box">
+							<div class="box mb-sm-5">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="carousel-item">
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box mb-sm-5">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box mb-sm-5">
+								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
+								<h1>Sourav Saha</h1>
+								<h2>Web Developer</h2>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-4 col-12 my-sm-3">
+							<div class="box mb-sm-5">
 								<a href=""><img src="images/icon1.jpg" class="img-fluid img-thumbnail"></a>
 								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam velit repellendus voluptates corrupti quaerat maxime, nam vel eligendi. Quasi velit quibusdam suscipit dolorem deleniti sint excepturi perferendis sed eveniet laborum.</p>
 								<h1>Sourav Saha</h1>
@@ -368,6 +368,107 @@
 	</section>
 
 <!-- ****************************happy customer part end***************************** -->
+
+
+<!-- ******************************Contact us part start***************************** -->
+
+	<section class="contactus my-2" id="contactusid">
+		<div class="container p-heading text-center">
+			<h1 class="text-center font-weight-bold text-uppercase">Contact with us</h1>
+			<p class="text-capitalize">your valueble feedback is our gain, thank you</p>
+			<hr class="w-50 mx-auto">
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-md-8 col-10 offset-lg-2 offset-md-2 offset-1">
+					<form>
+  						<div class="form-group">
+						    <input type="name" name="clients_name" class="form-control" placeholder="Enter name" id="name" autocomplete="off" required="required">
+  						</div>
+  						<div class="form-group">
+						    <input type="email" name="clients_mail" class="form-control" placeholder="Enter email" id="email" autocomplete="off" required="required">
+  						</div>
+  						<div class="form-group">
+						    <input type="text" name="clients_level" class="form-control" placeholder="Enter your level  (eg.Proffessional)" id="level" autocomplete="off" required="required">
+  						</div>
+  						<div class="form-group">
+  							<textarea class="form-control" rows="5" id="comment" placeholder="Enter your comment" name="clients_cmmnt" autocomplete="off" required="required"></textarea>
+						</div>
+						<div class="d-flex justify-content-center form-button">
+							<button type="submit" name="submit" class="btn btn-primary">Submit</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<!-- ******************************Contact us part end******************************* -->
+
+
+<!-- ******************************News letter part start**************************** -->
+
+	<section class="newsletter" id="newsletterid">
+		<div class="container p-heading text-center">
+			<h1 class="text-center font-weight-bold text-uppercase">Subscribe to our newsletter</h1>
+			<hr class="w-50 mx-auto">
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-md-8 col-10 offset-lg-2 offset-md-2 offset-1">
+						<form>
+      						<div class="input-group news-input-container">
+     							<input type="email" class="form-control news-input" placeholder="Enter your Email" id="mail" name="news-mail" required="required">
+     							<button class="input-group-append btn">Subscribe</button>
+  							</div>
+  						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<!-- ******************************News letter part end****************************** -->
+
+
+<!-- *******************************Footer part start******************************** -->
+
+	<footer class="footersection bg-dark py-4" id="footerdiv">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-md-4 col-12 footer-1">
+					<h3 class="text-uppercase text-white">About Astro Developer community</h3>
+					<hr class="divi-foot">
+					<p class="text-left text-white pt-1">On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks.</p>
+				</div>
+
+				<div class="col-lg-4 col-md-4 col-12 footer-1">
+					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Navigation</h3>
+					<div class="text-lg-center text-md-center text-left text-white nav-foot">
+						<li>HOME</li>
+						<li>FEATURES</li>
+						<li>SERVICES</li>
+						<li>PRICING</li>
+					</div>
+				</div>
+
+				<div class="col-lg-4 col-md-4 col-12 footer-1">
+					<h3 class="text-uppercase text-white text-lg-center text-md-center text-left py-lg-0 py-md-0 py-4">Follow us :</h3>
+					<div class="follow-foot text-lg-center text-md-center text-left py-lg-3">
+						<i class="fa-2x fa fa-facebook-official" aria-hidden="true"></i>
+						<i class="fa-2x fa fa-instagram" aria-hidden="true"></i>
+						<i class="fa-2x fa fa-linkedin" aria-hidden="true"></i>
+						<i class="fa-2x fa fa-github-square" aria-hidden="true"></i>
+						<i class="fa-2x fa fa-google-plus" aria-hidden="true"></i>		
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+<!-- *********************************Footer part end******************************** -->
 
 
 

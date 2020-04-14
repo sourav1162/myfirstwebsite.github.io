@@ -427,16 +427,18 @@ form:hover .form-button button{
 	width: 200px;
 	background: #fff;
 }
-.nav-foot{
-	line-height: 3;
-	font-style: italic;
-}
 .follow-foot i{
 	padding: 0px 10px;	
 	cursor: pointer;
 	transition: 0.5s;
 }
 .follow-foot i:hover{
+	color: #60d8ef;
+}
+.nav-foot{
+	cursor: pointer;
+}
+.nav-foot li:hover{
 	color: #60d8ef;
 }
 #scr_btn{

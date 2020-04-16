@@ -33,8 +33,8 @@
 				<h1>We are the <span id="type-wr"></span></h1>
 				<p>Your satisfaction is our pleasure</p>
 				<div class="header-buttons ">
-					<a href="">About us</a>
-					<a href="">Contact us</a>
+					<a href="#servicesdiv">About us</a>
+					<a href="#contactusid">Contact us</a>
 				</div>
 			</div>
 		</section>
@@ -48,17 +48,17 @@
 	<div class="features" id="featuresdiv">
 		<div class="container">
 			<div class="row">
-				<div class="feat-col col-lg-4 col-md-4 col-12">
+				<div class="feat-col col-lg-4 col-md-12 col-sm-12 col-12">
 					<a href="#"><i class="fa-3x fa fa-shopping-cart"></i></a>
 					<h2>EASY TO ORDER</h2>
 					<p> On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks.  </p>
 				</div>
-				<div class="feat-col col-lg-4 col-md-4 col-12">
+				<div class="feat-col col-lg-4 col-md-12 col-sm-12 col-12">
 					<a href="#"><i class="fa-3x fa fa-trophy"></i></a>
 					<h2>AWESOME DESIGN</h2>
 					<p> On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks.  </p>
 				</div>
-				<div class="feat-col col-lg-4 col-md-4 col-12">
+				<div class="feat-col col-lg-4 col-md-12 col-sm-12 col-12">
 					<a href="#"><i class="fa-3x fa fa-magic"></i></a>
 					<h2>EASY TO CUSTOMIZE</h2>
 					<p> On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks.  </p>

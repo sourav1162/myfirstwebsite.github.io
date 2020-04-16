@@ -3,6 +3,7 @@
 <head>
 	<title>Studymate | Astro Developer Community</title>
 	<?php include 'links/link.php'; ?>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="css/style_index.css">
 </head>
 <body>
@@ -12,6 +13,7 @@
 
 		<nav class="navbar navbar-expand-lg navbar-dark">
 			<div class="container text-uppercase p-2">
+				<img src="images/logo.png">
 		  		<a class="navbar-brand font-weight-bold text-white" href="#">StudyMate</a>
 		  		<button class="navbar-toggler bg-d" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 		    		<span class="navbar-toggler-icon"></span>
@@ -73,7 +75,7 @@
 	
 	<section class="services" id="servicesdiv">
 		<div class="container heading text-center">
-			<h1 class="text-center font-weight-bold text-uppercase">What do we offer</h1>
+			<h4 class="text-center font-weight-bold text-uppercase">What do we offer</h4>
 			<p>When you create pictures, charts</p>
 		</div>
 
@@ -118,7 +120,7 @@
 					</div>					
 				</div>
 
-				<div class="col-lg-6 col-md-12 offset-lg-0 col-12 ser-div">
+				<div class="col-lg-6 col-md-12 offset-lg-0 col-8 offset-2 ser-div">
 					<div class="row">
 						<div class="col-lg-2 col-2 col-md-2 ser-icons">
 							<i class="fa-3x fa fa-handshake-o"></i>
@@ -197,7 +199,7 @@
 
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-4 col-md-4 col-4">
+				<div class="main-card col-lg-4 col-md-12 col-12">
 					<div class="card text-center">
 						<div class="card-header">BASIC</div>
 						<div class="card-body">
@@ -212,7 +214,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-4">
+				<div class="main-card col-lg-4 col-md-12 col-12">
 					<div class="card text-center">
 						<div class="card-header">RECOMENDED</div>
 						<div class="card-body">
@@ -227,7 +229,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-4">
+				<div class="main-card col-lg-4 col-md-12 col-12">
 					<div class="card text-center">
 						<div class="card-header">STANDARD</div>
 						<div class="card-body">

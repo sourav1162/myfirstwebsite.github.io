@@ -104,6 +104,7 @@ li{ text-decoration: none; list-style: none; }
 	box-shadow: 0 0 20px 0 rgba(0,0,0,0.5);
 }
 
+
 /*******************************header part css************************************/
 
 /*******************************features part css************************************/
@@ -463,12 +464,13 @@ form:hover .form-button button{
 
 /*******************************Media query part css************************************/
 
-@media(max-width: 768px){
+@media(min-width: 200px){
 	.navbar-brand{
-		font-size: 2.5rem!important;
+		font-size: 3rem!important;
+		padding: 0px 20px!important;
 	}
 	.navbar-toggler-icon{
-		font-size: 2rem!important;
+		font-size: 2.5rem!important;
 	}
 }
 

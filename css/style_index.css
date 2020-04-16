@@ -479,7 +479,7 @@ form:hover .form-button button{
 @media screen and (max-width: 768px){
 	.navbar-brand{
 		font-size: 1.3rem!important;
-		margin-left: -200px!important;
+		margin-left: -40px!important;
 	}
 	.header img{
 		display: block;
